@@ -1,6 +1,3 @@
-# covid-crime-insights
-A data science project exploring the impact of COVID-19 on crime trends in Harlow and Great Yarmouth using open police data. Includes Python-based analysis and an interactive Power BI dashboard for insight delivery in a public safety context.
-
 # COVID-19 Crime Insights: Harlow vs Great Yarmouth
 
 This project explores the effect of the COVID-19 lockdowns on local crime trends in the towns of Harlow and Great Yarmouth, using open data from [data.police.uk](https://data.police.uk). The goal is to identify patterns and produce accessible insights through data analysis and interactive visualisation.
